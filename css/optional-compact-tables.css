@@ -1,0 +1,23 @@
+#tables .directory-item.rolltable {
+  position: relative;
+  line-height: 24px;
+}
+
+#tables .directory-item.rolltable .thumbnail {
+  clip: rect(12px, 48px, 36px, 0);
+  position: absolute;
+  margin-top: -11px;
+  margin-bottom: -14px;
+}
+
+#tables .directory-item.rolltable .document-name {
+  position: relative;
+  padding-top: 2px;
+  padding-left: 56px;
+}
+
+#tables li.folder > .folder-header {
+  padding: 0 6px;
+}
+
+/*# sourceMappingURL=optional-compact-tables.css.map */

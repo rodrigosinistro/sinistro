@@ -1,0 +1,23 @@
+.dnd5e.sheet.actor .sheet-header .header-exp {
+  flex: 0 0 170px;
+}
+
+.dnd5e.sheet.actor.character .sheet-header .experience {
+  max-width: 150px;
+}
+
+.dnd5e.sheet.actor.character .sheet-header .charlevel {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.dnd5e.sheet.actor.character .sheet-header .charlevel > label:first-child {
+  margin-right: 4px;
+}
+
+.imp-cls__btn-sheet-level-up {
+  display: block;
+}
+
+/*# sourceMappingURL=optional-sheet-level-up-button.css.map */

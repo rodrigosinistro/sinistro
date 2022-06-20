@@ -1,0 +1,11 @@
+.directory .directory-list .directory-item .folder-header h3 {
+  white-space: break-spaces;
+  display: flex;
+  align-items: center;
+}
+.directory .directory-list .directory-item .folder-header .create-folder,
+.directory .directory-list .directory-item .folder-header .create-entity {
+  align-self: center;
+}
+
+/*# sourceMappingURL=optional-wrap-folder-names.css.map */

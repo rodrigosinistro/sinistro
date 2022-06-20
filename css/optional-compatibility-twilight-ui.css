@@ -1,0 +1,224 @@
+/* stylelint-disable */
+a.btn, label.btn, div.btn {
+  background: #252423;
+  border: none;
+  padding: 5px 12px;
+}
+
+.ve-window, .imp-wiz__spc-panels, .btn-group > input.form-control, .input-group > input.form-control, .fltr__pill, .permu__cell-ent-name--header, .ui-list__wrp-preview, .veapp__bg-foundry, .ui-tab__btn-tab-head.active {
+  background: none;
+}
+
+.btn-group > input.form-control:last-child, .btn-group > label:last-child, .btn-group > button:last-child, .btn-group > select:last-child, .btn-group > a.btn:last-child, .btn-group > div.btn:last-child, .input-group > input.form-control:last-child, .input-group > label:last-child, .input-group > button:last-child, .input-group > select:last-child, .input-group > a.btn:last-child, .input-group > div.btn:last-child, .ui-slidr__track-outer {
+  border: none;
+}
+
+input.form-control, textarea.form-control, .ui-slidr__disp-value--visible {
+  border: none;
+  background: none;
+}
+
+hr, .hr-0, .hr-1, .hr-2, .hr-3, .hr-4, .hr-5, .hr--dotted, .hr--heavy, .vr-0, .vr-1, .vr-2, .vr-3, .vr-4, .vr-5, .fltr__dropdown-divider--sub, .fltr__dropdown-divider, .imp-wiz__tab-config {
+  border: none;
+  border-style: none;
+}
+
+.ui-modal__inner {
+  background: #141211;
+  color: white;
+}
+
+input.form-control, textarea.form-control, .permu__sel-permission--mass option {
+  color: white;
+}
+
+.fltr-src__wrp-slider {
+  background: none;
+  padding-bottom: 8px !important;
+}
+
+.ui-slidr__track-inner {
+  background: #5f5555;
+}
+
+.ui-slidr__thumb {
+  border: none;
+  background: #6f6f6f;
+}
+
+.fltr__pill[state=yes], .fltr__mini-pill[state=yes] {
+  background-color: #1b3e5d;
+  border: none;
+  border-radius: 5px;
+}
+
+.fltr__pill[state=no], .fltr__mini-pill[state=no] {
+  background-color: #611717;
+  border: none;
+  border-radius: 5px;
+}
+
+.fltr__h-btn-logic--red {
+  color: #e65253;
+}
+
+.fltr__h-btn--none, .fltr__h-btn--none:focus, .fltr__h-btn--none:hover {
+  text-decoration-color: #e65253;
+}
+
+.fltr__pill, select.ve-foundry-button {
+  border-radius: 5px;
+  border: none;
+  background-color: #2f2e2d;
+}
+
+.fltr__pill:hover, table.cls-tbl .cls-tbl__stripe-odd:nth-child(odd), .cfg__btn-tab-header:hover {
+  background-color: #4b4a44;
+}
+
+.fltr__mini-view {
+  background: none;
+  border: none;
+  padding: 5px 0;
+}
+
+.veapp__list-row, .ui-modal__header--border {
+  border-bottom: none;
+  padding: 5px 0;
+  box-shadow: none;
+}
+
+.ui-modal__inner {
+  padding: 10px;
+  border: none;
+}
+
+.imp-wiz__btn-tab-head {
+  box-sizing: content-box;
+}
+
+.dir__wrp-header {
+  padding: 0 0 5px 0;
+}
+
+.veapp-ctx-menu__wrp {
+  background: #363535;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.veapp-ctx-menu__item {
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.veapp-ctx-menu__item:hover {
+  background: #3f3f3f;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.veapp-ctx-menu__spacer, table.cls-tbl th.border {
+  display: none;
+}
+
+.permu__cell-ent-name, .permu__cell-player, .permu__cell-player, .permu__row-ent, .permu__hr-head {
+  background: none;
+  border: none;
+}
+
+.permu__sel-permission, .permu__sel-permission[data-permu-value] {
+  color: white;
+  border: none;
+}
+
+.permu__sel-permission[data-permu-value="-1"], .ui-sel2__disp-option.active, .ui-sel2__disp-option:focus, .ui-sel2__disp-option:hover {
+  background: black;
+}
+
+.permu__sel-permission[data-permu-value="0"] {
+  background: #632d2d;
+}
+
+.permu__sel-permission[data-permu-value="1"] {
+  background: #525226;
+}
+
+.permu__sel-permission[data-permu-value="2"] {
+  background: #343469;
+}
+
+.permu__sel-permission[data-permu-value="3"] {
+  background: #2f482f;
+}
+
+.cfg__btn-tab-header {
+  background: #252423;
+  border: none;
+}
+
+.ui-pick__disp-text {
+  border: none;
+  background: #252423;
+  border-radius: 5px 0 0 5px;
+  height: 25px;
+}
+
+.ui-pick__btn-add, .ui-pick__btn-remove {
+  padding: 5px;
+  height: min-content;
+  width: min-content;
+  height: 25px;
+}
+
+.ui-pick__btn-remove {
+  border-radius: 0 5px 5px 0;
+}
+
+.cfg__wrp-search, .cfg__wrp-tab-headers, .cfg__wrp-save, .cfg__sel-enum, .cfg__ipt-number, .cfg__ipt-string, .cfg__wrp-multi-choice, .cfg__wrp-string-picker, cfg__ipt-string {
+  border: none !important;
+}
+
+.veapp__list.mb-1.h-100.min-h-0 label {
+  padding: 5px 0;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.veapp__list.mb-1.h-100.min-h-0 label:hover, .ui-sel2__disp-option, .rd__b-inset {
+  background: #252423;
+}
+
+.veapp__list.mb-1.h-100.min-h-0 label span {
+  margin: 0 5px;
+}
+
+.stripe-odd:nth-child(odd), .stripe-even:nth-child(even), .stripe-odd-table > tbody > tr:nth-child(odd), .stripe-even-table > tbody > tr:nth-child(even) {
+  background: none !important;
+}
+
+.ve-flex-v-center > label > input {
+  background: #252423;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-size: 1em;
+  padding: 5px;
+}
+
+table.cls-tbl {
+  background: #191716;
+  color: white;
+  font-family: roboto;
+  border: none;
+}
+
+.cls-tbl > tbody > tr > th {
+  color: #c9c7b8;
+}
+
+.rd__h--0, .rd__b--0 .rd__h--1 {
+  color: #929292;
+}
+
+/*# sourceMappingURL=optional-compatibility-twilight-ui.css.map */

@@ -1,0 +1,9 @@
+.pop__btn-open {
+  display: block !important;
+}
+
+.minimized .pop__btn-open {
+  display: none !important;
+}
+
+/*# sourceMappingURL=optional-sheet-popout.css.map */

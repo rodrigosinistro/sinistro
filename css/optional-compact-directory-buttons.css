@@ -1,0 +1,11 @@
+.sidebar-tab .action-buttons button,
+.dir__btn-header {
+  height: 20px;
+  line-height: 18px;
+}
+
+.sidebar-tab .action-buttons .create-entity {
+  margin-right: 0;
+}
+
+/*# sourceMappingURL=optional-compact-directory-buttons.css.map */

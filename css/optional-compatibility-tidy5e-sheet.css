@@ -1,0 +1,11 @@
+.system-dnd5e.tidy5eDark .tidy5e.sheet .rd__h--0,
+.system-dnd5e.tidy5eDark .tidy5e.sheet .rd__h--1,
+.system-dnd5e.tidy5eDark .tidy5e.sheet .rd__h--2 {
+  color: var(--primary-font);
+}
+.system-dnd5e.tidy5eDark .tidy5e.sheet .jlnk__entity-link {
+  color: var(--primary-font);
+  background: var(--faint-color);
+}
+
+/*# sourceMappingURL=optional-compatibility-tidy5e-sheet.css.map */

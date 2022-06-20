@@ -1,0 +1,23 @@
+#actors .directory-item.actor {
+  position: relative;
+  line-height: 24px;
+}
+
+#actors .directory-item.actor .thumbnail {
+  clip: rect(12px, 48px, 36px, 0);
+  position: absolute;
+  margin-top: -11px;
+  margin-bottom: -14px;
+}
+
+#actors .directory-item.actor .document-name {
+  position: relative;
+  padding-top: 2px;
+  padding-left: 56px;
+}
+
+#actors li.folder > .folder-header {
+  padding: 0 6px;
+}
+
+/*# sourceMappingURL=optional-compact-actors.css.map */

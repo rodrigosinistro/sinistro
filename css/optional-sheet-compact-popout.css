@@ -1,0 +1,5 @@
+.pop__mnu-btn-open {
+  display: block !important; }
+
+.minimized .pop__mnu-btn-open {
+  display: none !important; }

@@ -1,0 +1,23 @@
+#macros .directory-item.macro {
+  position: relative;
+  line-height: 24px;
+}
+
+#macros .directory-item.macro .thumbnail {
+  clip: rect(12px, 48px, 36px, 0);
+  position: absolute;
+  margin-top: -11px;
+  margin-bottom: -14px;
+}
+
+#macros .directory-item.macro .document-name {
+  position: relative;
+  padding-top: 2px;
+  padding-left: 56px;
+}
+
+#macros li.folder > .folder-header {
+  padding: 0 6px;
+}
+
+/*# sourceMappingURL=optional-compact-macros.css.map */

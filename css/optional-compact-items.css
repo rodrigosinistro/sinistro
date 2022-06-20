@@ -1,0 +1,23 @@
+#items .directory-item.item {
+  position: relative;
+  line-height: 24px;
+}
+
+#items .directory-item.item .thumbnail {
+  clip: rect(12px, 48px, 36px, 0);
+  position: absolute;
+  margin-top: -11px;
+  margin-bottom: -14px;
+}
+
+#items .directory-item.item .document-name {
+  position: relative;
+  padding-top: 2px;
+  padding-left: 56px;
+}
+
+#items li.folder > .folder-header {
+  padding: 0 6px;
+}
+
+/*# sourceMappingURL=optional-compact-items.css.map */

@@ -1,0 +1,50 @@
+.tit-menu__btn-open--sheet {
+  display: block !important;
+  min-width: 26px;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.minimized .tit-menu__btn-open--sheet {
+  display: none !important;
+}
+
+.window-app .window-header a:not(.close) {
+  margin: 0;
+  padding: 0 4px;
+  background: #5556;
+  border: 1px solid #7778;
+  border-bottom: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.window-app .window-header a:not(.close):hover {
+  background: #3338;
+}
+
+.window-app .window-header a.close {
+  background: #a006;
+  border: 1px solid #c008;
+  border-bottom: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  font-size: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 26px;
+  height: 100%;
+  margin: 0 -8px 0 0;
+}
+
+.window-app .window-header a.close:hover {
+  background: #8008;
+}
+
+.window-app .window-header a.close i {
+  font-size: 14px;
+  margin-left: 2px;
+}
+
+/*# sourceMappingURL=optional-sheet-compact-controls.css.map */

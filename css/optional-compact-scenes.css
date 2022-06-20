@@ -1,0 +1,16 @@
+#scenes .directory-item.scene {
+  line-height: 30px;
+  height: 30px;
+  background-position-y: 40px;
+  margin-bottom: 3px;
+}
+
+#scenes .directory-item.scene .document-name {
+  line-height: 24px;
+}
+
+#scenes li.folder > .folder-header {
+  padding: 0 6px;
+}
+
+/*# sourceMappingURL=optional-compact-scenes.css.map */

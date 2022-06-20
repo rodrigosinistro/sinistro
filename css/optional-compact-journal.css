@@ -1,0 +1,10 @@
+#journal .directory-item.journalentry {
+  position: relative;
+  line-height: 24px;
+}
+
+#journal li.folder > .folder-header {
+  padding: 0 6px;
+}
+
+/*# sourceMappingURL=optional-compact-journal.css.map */

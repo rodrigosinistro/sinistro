@@ -1,0 +1,9 @@
+.dir__control-header {
+  display: none !important;
+}
+
+.dir__control-header--alt {
+  display: block !important;
+}
+
+/*# sourceMappingURL=optional-hide-plut-directory-buttons.css.map */
